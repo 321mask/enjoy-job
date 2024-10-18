@@ -1,4 +1,4 @@
-# enjoy-job
+# Enjoy Job
  Enjoy Job integrates Apple MapKit to show suggested events on minimalistic, interactive screens. You can also see events' location in animated, interactive Apple Maps.
 
 Enjoy Job also allows you to upload new custom events to the app.
